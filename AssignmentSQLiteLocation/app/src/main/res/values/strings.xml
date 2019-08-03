@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Assignment SQLiteLocation</string>
+    <string name="submit">Submit</string>
+    <string name="enter_text">Enter Text:</string>
+    <string name="latitude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="textview">TextView</string>
+    <string name="string">String</string>
+    <string name="button">Button</string>
+    <string name="integer">Integer</string>
+    <string name="actcre">Activity Created</string>
+    <string name="noloc">No Location Available</string>
+    <string name="oncon">onConnect</string>
+    <string name="noper">Lacking Permissions</string>
+    <string name="actstart">Activity Started</string>
+    <string name="display">Display</string>
+    <string name="locate">Locate</string>
+    <string name="loco">No Location Available</string>
+    <string name="defaultlon">-123.2</string>
+    <string name="defaultlat">44.5</string>
+    <string name="latitudesym">Latitude:</string>
+    <string name="longitudesym">Longitude:</string>
+    <string name="latsym">Latitude:</string>
+    <string name="actstar">Activity Started</string>
+</resources>

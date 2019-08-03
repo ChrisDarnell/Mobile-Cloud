@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">OAUTHAndroid</string>
+    <string name="button">Get 3 Recent Posts</string>
+    <string name="item">Item</string>
+    <string name="welcome_to_appauth">Hello</string>
+    <string name="make_authorization_request">Make Auth Req</string>
+    <string name="make_api_call">Get Posts</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="tools_given_name">Name</string>
+    <string name="tools_family_name">Last name</string>
+    <string name="tools_full_name">Full Name</string>
+    <string name="request_failed">Request Failed</string>
+    <string name="request_complete">Request Complete</string>
+    <string name="restrictions_pending_block_user">Restricted</string>
+    <string name="threepots">Get 3 Recent Posts</string>
+    <string name="Apipost">API Post</string>
+    <string name="enterText">Enter Text:</string>
+    <string name="enter_post">Enter Post:</string>
+    <string name="post_text">Post Text</string>
+    <string name="get_profile">Get Profile</string>
+    <string name="posthead">Posts</string>
+</resources>
